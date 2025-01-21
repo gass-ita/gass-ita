@@ -1,7 +1,6 @@
 Hi 👋 My name is Andrea
 =======================
 
-* 🌍  I'm based in Poggibonsi
 * ✉️  You can contact me at [andreanassi231205@gmail.com](mailto:andreanassi231205@gmail.com)
 * 🚀  I'm currently working on [Linear Algebra](http://github.com/gass-ita/linearalgebra)
 * 🧠  I'm learning C, C++, Java
