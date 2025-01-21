@@ -3,8 +3,13 @@ Hi 👋 My name is Andrea
 
 * 🌍  I'm based in Poggibonsi
 * ✉️  You can contact me at [andreanassi231205@gmail.com](mailto:andreanassi231205@gmail.com)
-* 🚀  I'm currently working on [FakePS3](http://github.com/gass-ita/fakePS3)
-* 🧠  I'm learning Java, C#, Python
+* 🚀  I'm currently working on [Linear Algebra](http://github.com/gass-ita/linearalgebra)
+* 🧠  I'm learning C, C++, Java
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/andrea-nassi-185bb4181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
 
 ### Skills
 
