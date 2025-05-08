@@ -2,6 +2,7 @@ Hi 👋 My name is Andrea
 =======================
 
 * ✉️  You can contact me at [andreanassi231205@gmail.com](mailto:andreanassi231205@gmail.com)
+* 🎓  I'm currently studying Computer Engineering at [University of Siena](https://www.unisi.it)
 * 🚀  I'm currently working on [Linear Algebra 3D Rendering](https://github.com/gass-ita/Rendering3D)
 * 🧠  I'm learning C, C++, Java
 
