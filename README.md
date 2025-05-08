@@ -2,7 +2,7 @@ Hi 👋 My name is Andrea
 =======================
 
 * ✉️  You can contact me at [andreanassi231205@gmail.com](mailto:andreanassi231205@gmail.com)
-* 🚀  I'm currently working on [Linear Algebra](http://github.com/gass-ita/linearalgebra)
+* 🚀  I'm currently working on [Linear Algebra 3D Rendering](https://github.com/gass-ita/Rendering3D)
 * 🧠  I'm learning C, C++, Java
 
 <h3 align="left">Connect with me:</h3>
